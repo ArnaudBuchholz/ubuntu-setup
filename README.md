@@ -1,6 +1,6 @@
 # Ubuntu setup
 
-> Update
+> General updates
 ```bash
 sudo apt update && sudo apt -y upgrade
 sudo update-ca-certificates
