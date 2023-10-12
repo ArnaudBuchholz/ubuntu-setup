@@ -14,6 +14,7 @@ nvm install --lts
 ```
 
 > Automatic setup of Node.js version based on `.nvmrc`
+
 ✏️ `~/.bashrc`
 ```text
 enter_directory() {
