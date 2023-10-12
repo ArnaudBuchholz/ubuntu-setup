@@ -25,6 +25,7 @@ enter_directory() {
  [[ -f ".nvmrc" ]] && nvm use
 }
 export PROMPT_COMMAND=enter_directory
+```
 
 > git
 ```bash
